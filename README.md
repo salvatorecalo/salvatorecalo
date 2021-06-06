@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Salvatore Calo or Erik for friends,
 
-<!--
-**salvatorecalo/salvatorecalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a 16 years old and I'm a young italian developer interested in frontend web developing!
 
-Here are some ideas to get you started:
+## My skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Web developing
+2. Bot telegram Developing
+
+## Language that I know:
+
+1. HTML
+2. CSS (SASS)
+3. JAVASCRIPT (VANILLA, VUEJS)
+4. PYTHON
+5. SQL
+### and so on!
+
+## Projects I'm currently working on
+- [Squirrel Blacklist Bot] (https://t.me/BlacklistCheck_Bot): a bot that allow you know if you are in [Squirrel Network Blacklist] (https://squirrel-network.online/knowhere)
+
+## How to reach me
+- Telegram: [private](https://t.me/Ignorante] or [Private Bot](https//t.me/ErikAreaBot)
+- Instagram: [private](https://www.instagram.com/salva_calo)
+- Email: [email](mailto:dafder45678@gmail.com)
