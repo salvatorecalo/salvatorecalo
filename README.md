@@ -25,5 +25,5 @@
 - Email: [email](mailto:dafder45678@gmail.com)
 
 # Github Stats
-[![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvatorecalo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorecalo)](https://github.com/anuraghazra/github-readme-stats)
+[![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvatorecalo&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorecalo&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
