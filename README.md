@@ -23,3 +23,6 @@
 - Telegram: [private](https://t.me/Ignorante] or [Private Bot](https//t.me/ErikAreaBot)
 - Instagram: [private](https://www.instagram.com/salva_calo)
 - Email: [email](mailto:dafder45678@gmail.com)
+
+# Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvatorecalo)](https://github.com/anuraghazra/github-readme-stats)
