@@ -25,4 +25,4 @@
 - Email: [email](mailto:dafder45678@gmail.com)
 
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvatorecalo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvatorecalo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
