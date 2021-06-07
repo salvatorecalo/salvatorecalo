@@ -7,13 +7,14 @@
 1. Web developing
 2. Bot telegram Developing
 
-## Language that I know:
+## Language that I use more:
 
 1. HTML
 2. CSS (SASS)
 3. JAVASCRIPT (VANILLA, VUEJS)
 4. PYTHON
 5. SQL
+6. PHP
 ### and so on!
 
 ## How to reach me
