@@ -16,9 +16,6 @@
 5. SQL
 ### and so on!
 
-## Projects I'm currently working on
-- [Squirrel Blacklist Bot](https://t.me/BlacklistCheck_Bot): a bot that allow you know if you are in [Squirrel Network Blacklist](https://squirrel-network.online/knowhere)
-
 ## How to reach me
 - Telegram: [private](https://t.me/Ignorante) or [Private Bot](https//t.me/ErikAreaBot)
 - Instagram: [private](https://www.instagram.com/salva_calo)
