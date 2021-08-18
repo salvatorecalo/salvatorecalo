@@ -15,6 +15,7 @@
 4. PYTHON
 5. SQL
 6. PHP
+7. FLUTTER AND DART
 ### and so on!
 
 ## How to reach me
