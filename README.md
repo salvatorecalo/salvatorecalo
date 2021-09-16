@@ -18,6 +18,10 @@
 7. FLUTTER AND DART
 ### and so on!
 
+## OS that I use:
+1. Windows 11 Pro (for gaming / UI and UX designing with Figma)
+2. Ubuntu 20.04 (for developing)
+3. 
 ## How to reach me
 - Telegram: [private](https://t.me/Ignorante) or [Private Bot](https//t.me/ErikAreaBot)
 - Instagram: [private](https://www.instagram.com/salva_calo)
