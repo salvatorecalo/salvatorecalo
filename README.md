@@ -1,6 +1,6 @@
 # Hi, I'm Salvatore Calo or Erik for friends,
 
-### I'm a 16 years old and I'm a young italian developer interested in frontend web developing!
+### I'm a 17 years old and I'm a young italian developer interested in frontend web developing!
 
 ## My skills:
 
