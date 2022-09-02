@@ -1,27 +1,25 @@
-# Hi, I'm Salvatore Calo or Erik for friends,
+# Hi, I'm Salvatore Calò or Erik for friends,
 
 ### I'm a 17 years old and I'm a young italian developer interested in frontend web developing!
 
 ## My skills:
 
 1. Web developing
-2. Bot telegram Developing
+2. App Developing
+3. Brand Designing
+4. Ui/Ux developing
 
 ## Language that I use more:
 
 1. HTML
-2. CSS (SASS)
-3. JAVASCRIPT (VANILLA, VUEJS)
-4. PYTHON
-5. SQL
-6. PHP
-7. FLUTTER AND DART
+2. CSS
+3. JAVASCRIPT
+4. FLUTTER AND DART
 ### and so on!
 
 ## OS that I use:
-1. Windows 11 Pro (for gaming / UI and UX designing with Figma)
-2. Ubuntu 20.04 (for developing)
-3. 
+1. Windows 11 Pro
+
 ## How to reach me
 - Telegram: [private](https://t.me/Ignorante) or [Private Bot](https//t.me/ErikAreaBot)
 - Instagram: [private](https://www.instagram.com/salva_calo)
