@@ -1,6 +1,6 @@
-# Hi, I'm Salvatore Calò or Erik for friends,
+# Hi, I'm Salvatore Calò or Salvo for friends,
 
-### I'm a 19 years old and I'm a young italian developer interested in frontend web developing!
+### I'm a 20 years old and I'm a young italian developer interested in frontend web developing!
 ### Now I'm studing at Polytechnic of Turin computer engineering (L-8).
 ## My Interest:
 
