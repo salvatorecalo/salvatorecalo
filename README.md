@@ -6,8 +6,6 @@
 
 1. Web developing
 2. App Developing
-3. Brand Designing
-4. Ui/Ux developing
 
 ## How to reach me
 - Telegram: [private](https://t.me/Ignorante) or [Private Bot](https//t.me/ErikAreaBot)
